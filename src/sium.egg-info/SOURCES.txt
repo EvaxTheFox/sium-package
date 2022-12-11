@@ -1,9 +1,0 @@
-LICENSE
-README.md
-pyproject.toml
-src/sium/__init__.py
-src/sium/example.py
-src/sium.egg-info/PKG-INFO
-src/sium.egg-info/SOURCES.txt
-src/sium.egg-info/dependency_links.txt
-src/sium.egg-info/top_level.txt
