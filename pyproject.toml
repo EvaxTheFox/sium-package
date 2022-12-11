@@ -1,0 +1,18 @@
+[project]
+name = "sium"
+version = "0.0.1"
+authors = [
+  { name="The Volpinia Team", email="evaxthefoxofficial@gmail.com" },
+]
+description = "A small example package"
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: Windows",
+]
+
+[project.urls]
+"Homepage" = "https://github.com/EvaxTheFox/sium-package"
+"Bug Tracker" = "https://github.com/EvaxTheFox/sium-package/issues"
